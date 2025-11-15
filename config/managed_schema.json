@@ -36,7 +36,7 @@
       "title": "CIPP Tenant ID/Domain",
       "description": "Tenant identifier to include with CIPP alerts for multi-tenant environments",
       "type": "string",
-      "default": ""
+      "default": "https://cipp.vigilcyber.com"
     },
     "customRulesUrl": {
       "title": "Custom Rules URL",
@@ -122,7 +122,7 @@
           "title": "Company URL",
           "description": "Company URL used in the extension",
           "type": "string",
-          "default": "https://cyberdrain.com/"
+          "default": "https://vigilcyber.com/"
         },
         "productName": {
           "title": "Product Name",
