@@ -1,13 +1,15 @@
 ---
 description: >-
   This page will outline the various ways that you can deploy Check to your
-  clients' environments
+  clients' environments across Chrome, Edge, and Firefox
 icon: bolt
 ---
 
 # Chrome/Edge Deployment Instructions
 
-Check is available for&#x20;
+Check is available for **Chrome**, **Microsoft Edge**, and **Firefox** with deployment guides for each browser.
+
+## Chrome/Edge Deployment
 
 {% content-ref url="windows/" %}
 [windows](windows/)
